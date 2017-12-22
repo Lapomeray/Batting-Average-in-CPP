@@ -1,6 +1,6 @@
 #include <iostream>
 
-/* HW 9 BRANDON LAPOMERAY
+/* BRANDON LAPOMERAY
  * This program reads in the number of times at bat,
  * and the number of hits for nine(9) players.
  * Then it calculates the batting average for each player
